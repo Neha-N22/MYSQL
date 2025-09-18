@@ -1,6 +1,7 @@
-INSERT INTO customers VALUES ('8','William','Tokyo','4006','Japan');
-
-INSERT INTO Customers (CustomerName, City, Country)
-VALUES ('Allison', 'New York', 'US');
-SELECT * FROM Customers
-WHERE CustomerID=1;
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Addres varchar(255),
+    City varchar(255)
+);
