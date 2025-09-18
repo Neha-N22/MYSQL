@@ -5,4 +5,4 @@ CREATE TABLE Persons (
     Addres varchar(255),
     City varchar(255)
 );
-INSERT INTO Persons VALUES ('1','John','Doe','1234 Elm St','Springfiled);
+INSERT INTO Persons VALUES ('1','John','Doe','1234 Elm St','Springfiled');
