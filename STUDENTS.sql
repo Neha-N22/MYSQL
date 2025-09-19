@@ -1,5 +1,6 @@
 
 CREATE DATABASE college;
+USE college
 CREATE TABLE students (
     id INT AUTO_INCREMENT ,
     studentname VARCHAR(50),
