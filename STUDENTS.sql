@@ -10,3 +10,7 @@ INSERT INTO students VALUES('2','Anjana','23','EEE','90');
 INSERT INTO students VALUES('3','Amal','27','CSE','80');
 INSERT INTO students VALUES('4','Arun','25','ECE','80');
 
+
+SELECT * FROM students
+WHERE garde > 20;
+
